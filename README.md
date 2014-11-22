@@ -1,4 +1,0 @@
-JavaApps-
-=========
-
-Java Source Code
